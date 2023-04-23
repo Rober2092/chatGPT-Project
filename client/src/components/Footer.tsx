@@ -24,11 +24,10 @@ const Footer = () => {
         <FooterSelect />
       </div>
       <p className='text-center text-[10px] md:text-xs p-2'>
-        © 1996-2022 Bay-Zuban is a reserved site with it&apos;s rights vested in the
-        respective owners and affaliates.
+        © 2023, All Rights Reserved
       </p>
     </footer>
   );
 };
 
-export default Footer;
+export default Footer;            

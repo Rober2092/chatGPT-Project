@@ -26,7 +26,7 @@ const About = () => {
           <h1 className=' text-4xl sm:text-5xl lg:text-6xl font-heading font-bold max-w-[550px] tracking-wide leading-[50px] sm:leading-[60px]  lg:leading-[70px] ml-10 md:ml-20 '>
             Who are we? And what do we do at{' '}
             <b className='text-primary w-fit items-center gap-2 flex pb-2 border-b-2 border-primary'>
-              Bay-Zuban <Logo />{' '}
+              luna rescue <Logo />{' '}
             </b>
           </h1>
         </div>
